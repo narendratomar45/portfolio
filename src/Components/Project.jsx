@@ -3,7 +3,6 @@ import AOS from "aos";
 import ebazar from "../Image/ebazar.png";
 import jingle from "../Image/jingle.png";
 
-
 const Project = (props) => {
   useEffect(() => {
     AOS.init({
